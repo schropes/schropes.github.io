@@ -18,4 +18,7 @@ I'm also working on a project about how AR can help us reimagine contested areas
 Language, data, and gender research are other areas in which I work. Recent projects from this space are forthcoming!
 
 Get in touch: hi@hopeschroeder.com
+
 [LinkedIn](https://www.linkedin.com/in/hopeschroeder/)
+
+[Twitter](https://twitter.com/Schropes)
