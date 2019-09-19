@@ -4,7 +4,7 @@ Hope Schroeder here.
 
 I'm interested in how emerging technology can help us investigate or solve some major challenges in the world today.
 
-I'm an incoming MSc student in [Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/) at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/), [Clarendon scholar](http://www.ox.ac.uk/clarendon) at [Christ Church college](https://www.chch.ox.ac.uk/), and recent graduate of Stanford in [Symbolic Systems](https://symsys.stanford.edu/).
+I'm an incoming MSc student in [Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/) at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/), [Clarendon Scholar](http://www.ox.ac.uk/clarendon) at [Christ Church college](https://www.chch.ox.ac.uk/), and recent graduate of Stanford in [Symbolic Systems](https://symsys.stanford.edu/).
 
 Currently, I'm working on a couple of projects using AR to reimagine contested areas of public space. We are working on a contested plaque [site at Stanford](https://www.dearvisitor.app/) and Confederate monuments in [Charleston](https://brown.columbia.edu/portfolio/charleston-reconstructed/). 
 
