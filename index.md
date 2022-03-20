@@ -1,14 +1,10 @@
 Hi!
 
-Hope Schroeder here.
+Hope Schroeder here. I’m a first-year graduate student in the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/) and I work with language and network data. I'm interested in how emerging computational methods can help us investigate cultural, social, and political phenomena and inform action on major challenges in the world today. 
 
-I'm interested in how emerging technology can help us investigate or solve major challenges in the world today.
+Before coming to MIT, I was a pre-doctoral fellow at Stanford Law School working with Professor Julian Nyarko on applications of NLP methods for legal and policy questions. Before that, I was an MSc student in [Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/) at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/), [Clarendon Scholar](http://www.ox.ac.uk/clarendon) at [Christ Church](https://www.chch.ox.ac.uk/), and 2019 graduate of Stanford in [Symbolic Systems](https://symsys.stanford.edu/) with honors. 
 
-I'm an MSc student in [Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/) at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/), [Clarendon Scholar](http://www.ox.ac.uk/clarendon) at [Christ Church](https://www.chch.ox.ac.uk/), and 2019 graduate of Stanford in [Symbolic Systems](https://symsys.stanford.edu/). 
-
-My master's thesis is an inter-disciplinary computational analysis of messaging networks in India and Indonesia from last year's elections. My undergraduate honors thesis used NLP techniques to analyze gender bias in a major technology company's performance evaluations.
-
-I also work on projects using AR to reimagine contested areas of public space. Our project on a contested plaque [site at Stanford](https://www.dearvisitor.app/) received [global press](https://www.dearvisitor.app/press). Our other project about Confederate monuments in [Charleston](https://www.charlestonreconstructed.com/) is launching soon. 
+Before getting into data science, I worked on projects using VR & AR to document and reimagine contested areas of public space. Our project on a contested plaque [site at Stanford](https://www.dearvisitor.app/) received [global press](https://www.dearvisitor.app/press). 
 
 Get in touch: hi@hopeschroeder.com
 
