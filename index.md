@@ -11,12 +11,12 @@ Recent updates (11/2023):
 
 Less recent updates:
 In the last year, I've presented work at:
-*[IC2S2](https://iscss.org/ic2s2/conference/)
-*[AAAI's CreativeAI workshop](https://creativeai-ws.github.io/)
-*[TADA](https://tada2022.org/), [ICCC](https://computationalcreativity.net/iccc22/)
-*[WiBD](https://www.wibd.ch/)
-*[Computation+Journalism](https://cj2022.brown.columbia.edu/)
-*[EMNLP's WiNLP workshop](https://www.winlp.org/).
+* [IC2S2](https://iscss.org/ic2s2/conference/)
+* [AAAI's CreativeAI workshop](https://creativeai-ws.github.io/)
+* [TADA](https://tada2022.org/), [ICCC](https://computationalcreativity.net/iccc22/)
+* [WiBD](https://www.wibd.ch/)
+* [Computation+Journalism](https://cj2022.brown.columbia.edu/)
+* [EMNLP's WiNLP workshop](https://www.winlp.org/).
 
 A few computational creativity projects: 
 A fun paper I published with [Ziv Epstein](http://zive.info/) and Dava Newman, [When happy accidents spark creativity: Bringing collaborative speculation to life with generative AI](https://arxiv.org/abs/2206.00533), was published in [ICCC '22](http://computationalcreativity.net/iccc22/). I've also contributed to the [AI Alchemy Lab series](http://aialchemy.media.mit.edu/) at the Media Lab this fall exploring generative AI in the creative process, and a [paper](https://openreview.net/pdf?id=wm0WZPnhTC) from this stream of work appeared at [AAAI 2023's first workshop on CreativeAI](https://creativeai-ws.github.io/). 
