@@ -13,7 +13,8 @@ Less recent updates:
 In the last year, I've presented work at:
 * [IC2S2](https://iscss.org/ic2s2/conference/)
 * [AAAI's CreativeAI workshop](https://creativeai-ws.github.io/)
-* [TADA](https://tada2022.org/), [ICCC](https://computationalcreativity.net/iccc22/)
+* [TADA](https://tada2022.org/)
+* [ICCC](https://computationalcreativity.net/iccc22/)
 * [WiBD](https://www.wibd.ch/)
 * [Computation+Journalism](https://cj2022.brown.columbia.edu/)
 * [EMNLP's WiNLP workshop](https://www.winlp.org/).
@@ -29,7 +30,9 @@ Before getting into data science, I worked on projects using VR & AR to document
 ### Contact
 Get in touch: hi@hopeschroeder.com
 [Google Scholar](https://scholar.google.com/citations?user=-UKCJTAAAAAJ&hl=en)
+
 [Twitter](https://twitter.com/Schropes)
+
 [LinkedIn](https://www.linkedin.com/in/hopeschroeder/)
 
 
