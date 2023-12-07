@@ -24,11 +24,12 @@ A fun paper I published with [Ziv Epstein](http://zive.info/) and Dava Newman, [
 ## About Me
 Before coming to MIT, I was a pre-doctoral fellow at Stanford Law School working with Professor Julian Nyarko on applications of NLP methods for legal and policy questions. Before that, I graduated with an MSc in [Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/) (Disctinction) at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/) as a [Clarendon Scholar](http://www.ox.ac.uk/clarendon) at [Christ Church](https://www.chch.ox.ac.uk/). I was a 2019 graduate of Stanford in [Symbolic Systems](https://symsys.stanford.edu/) with honors. 
 
-Before getting into data science, I worked on projects using VR & AR to document and reimagine contested areas of public space. Our [Magic Grant](https://brown.columbia.edu/propose/) project on a contested plaque [site at Stanford](https://www.dearvisitor.app/) received [global press](https://www.dearvisitor.app/press). A case study on this work is forthcoming at [CHI 2023](https://chi2023.acm.org/), a preprint of which can be found [here](https://arxiv.org/abs/2302.02050). The piece was awarded Best Case Study at CHI in 2023!
+Before getting into data science, I worked on projects using VR & AR to document and reimagine contested areas of public space. Our [Magic Grant](https://brown.columbia.edu/propose/) project on a contested plaque [site at Stanford](https://www.dearvisitor.app/) received [global press](https://www.dearvisitor.app/press). A [case study](https://arxiv.org/abs/2302.02050) on this work received the Best Case Study Award at [CHI 2023](https://chi2023.acm.org/)!
 
 ### Contact
 Get in touch: hi@hopeschroeder.com
-
+[Google Scholar](https://scholar.google.com/citations?user=-UKCJTAAAAAJ&hl=en)
+[Twitter](https://twitter.com/Schropes)
 [LinkedIn](https://www.linkedin.com/in/hopeschroeder/)
 
-[Twitter](https://twitter.com/Schropes)
+
