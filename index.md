@@ -7,7 +7,7 @@ Hope Schroeder here. I’m a PhD student at the [MIT Center for Constructive Com
 Get in touch if you want to talk about generative AI, facilitated dialog, or unique methods of understanding the media ecosystem.
 
 Recent updates (11/2023):
-* I'm co-organizing a workshop at CHI on LLMs for Data Work. Stay tuned for CfP!
+* I'm co-organizing a workshop at CHI 2023 on LLMs for Data Work. Stay tuned for CfP!
 * In Summer 2023, I worked at Microsoft Research Labs under David Rothschild on the Computational Social Science team, investigating the use of LLMs for news understanding. Paper forthcoming!
 * In Spring 2023, I co-instructed a course on [Generative AI for Constructive Communication at MIT](https://ai4comm.media.mit.edu/).
 
