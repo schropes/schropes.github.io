@@ -1,6 +1,8 @@
 # Hope's Page
 
-![Headhot](/headshot_smiling.jpg)
+
+
+<img src="/headshot_smiling.jpg" alt="headshot" width="200"/>
 
 Hi!
 
