@@ -1,5 +1,7 @@
 # Hope's Page
 
+![Headhot](/headshot_smiling.jpg)
+
 Hi!
 
 Hope Schroeder here. I’m a PhD student at the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/). I'm interested in how NLP methods can help us investigate social phenomena and facilitate communication on major challenges in the world today. 
