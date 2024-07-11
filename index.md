@@ -10,8 +10,12 @@ Hope Schroeder here. I’m a PhD student at the [MIT Center for Constructive Com
 
 Get in touch if you want to talk about generative AI, facilitated dialog, or unique methods of understanding the media ecosystem.
 
-Some recent updates (2/2024):
-* Submit to our workshop at CHI 2024 on LLMs for Data Work, due 2/22/24! Details [here](https://sites.google.com/view/llmsindatawork/home)!
+Some recent updates (7/2024):
+* This summer, I am interning at Microsoft Research Labs in New York City for the second time. This year, I am working with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) group on evaluating risks and opportunities of LLMs in social research.
+* My paper "Fora: A corpus and framework for the study of facilitated dialogue" was accepted to ACL Main and will be presented there in August 2024. A pre-print and related access materials are forthcoming! 
+* Our CHI 2024 workshop LLMs for Data Work was a success, and public papers are posted [here!](https://sites.google.com/view/llmsindatawork/home)!
+
+Some older updates:
 * In Summer 2023, I worked at Microsoft Research Labs' Computational Social Science team under David Rothschild, investigating the use of LLMs for news polling and understanding. Paper forthcoming!
 * In June 2023, [Art and the Science of Generative AI](https://www.science.org/doi/full/10.1126/science.adh4451) came out as a Science Perspectives piece.
 * In Spring 2023, I co-instructed a course on [Generative AI for Constructive Communication at MIT](https://ai4comm.media.mit.edu/).
