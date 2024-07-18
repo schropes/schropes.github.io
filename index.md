@@ -11,7 +11,7 @@ Hope Schroeder here. I’m a PhD student at the [MIT Center for Constructive Com
 Get in touch if you want to talk about generative AI, facilitated dialog, or unique methods of understanding the media ecosystem.
 
 Some recent updates (7/2024):
-* "Fora: A corpus and framework for the study of facilitated dialogue" was accepted to ACL Main and will be presented there in August 2024 as well as IC2S2 2024. Learn more about the corpus [here](https://github.com/schropes/fora-corpus). A pre-print is forthcoming!
+* "Fora: A corpus and framework for the study of facilitated dialogue" was accepted to ACL Main and will be presented there in August 2024 as well as IC2S2 2024. Learn more about the corpus [here](https://github.com/schropes/fora-corpus). A pre-print is linked [here](https://drive.google.com/file/d/1z_APW-aNuYJNJjHfu9u6ObcIYDzXm6VD/view?usp=sharing)!
 * This summer, I am interning at Microsoft Research Labs in New York City for the second time. This year, I am working with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) group on evaluating risks and opportunities of LLMs in social research.
 * Our CHI 2024 workshop LLMs for Data Work was a success, and public papers are posted [here!](https://sites.google.com/view/llmsindatawork/home)!
 
