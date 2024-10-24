@@ -6,14 +6,15 @@
 
 Hi!
 
-Hope Schroeder here. I’m a PhD student at the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/). I'm interested in how NLP methods can help us investigate social phenomena and facilitate communication on major challenges in the world today. 
+Hope Schroeder here. I’m a PhD student at the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/). I'm interested in how language technologies can help us investigate social phenomena and facilitate communication on major challenges in the world today. 
 
-Get in touch if you want to talk about generative AI, facilitated dialog, or unique methods of understanding the media ecosystem.
+Get in touch if you want to talk about NLP, facilitated dialogue, AI in social research, or unique methods of understanding the media ecosystem.
 
-Some recent updates (7/2024):
-* "Fora: A corpus and framework for the study of facilitated dialogue" was accepted to ACL Main and will be presented there in August 2024 as well as IC2S2 2024. Learn more about the corpus [here](https://github.com/schropes/fora-corpus). A pre-print is linked [here](https://drive.google.com/file/d/1z_APW-aNuYJNJjHfu9u6ObcIYDzXm6VD/view?usp=sharing)!
-* This summer, I am interning at Microsoft Research Labs in New York City for the second time. This year, I am working with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) group on evaluating risks and opportunities of LLMs in social research.
-* Our CHI 2024 workshop LLMs for Data Work was a success, and public papers are posted [here!](https://sites.google.com/view/llmsindatawork/home)!
+Some recent updates (10/2024):
+* I'm back at MIT for Fall 2024 after interning at Microsoft Research Labs in New York City with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team during the summer. Our project evaluating opportunities, risks, and trade-offs of LLMs in inductive text analysis is forthcoming.
+* I'll be presenting my work on the impacts of LLM-assisted text annotation at [Computation + Journalism](https://idi.provost.northeastern.edu/event-directory/the-2024-computation-journalism-symposium/) at Northeastern on October 26th, 2024. 
+* "Fora: A corpus and framework for the study of facilitated dialogue" was presented at ACL 2024 Main Conference and IC2S2 2024. Learn more about the corpus [here](https://github.com/schropes/fora-corpus) and read the paper [here]([https://aclanthology.org/2024.acl-long.754.pdf])!
+* Our CHI 2024 workshop on [LLMs as Research Tools](https://sites.google.com/view/llmsindatawork/home) has led to follow-up work understanding LLMs in qualitative research.
 
 Some older updates:
 * In Summer 2023, I worked at Microsoft Research Labs' Computational Social Science team under David Rothschild, investigating the use of LLMs for news polling and understanding. Paper forthcoming!
