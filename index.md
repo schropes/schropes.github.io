@@ -34,8 +34,10 @@ Get in touch: hi@hopeschroeder.com
 
 [Google Scholar](https://scholar.google.com/citations?user=-UKCJTAAAAAJ&hl=en)
 
-[Twitter](https://twitter.com/Schropes)
+[Bluesky](https://bsky.app/profile/hopeschroeder.bsky.social)
 
 [LinkedIn](https://www.linkedin.com/in/hopeschroeder/)
+
+[Twitter, but on the outs](https://twitter.com/Schropes)
 
 
