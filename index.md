@@ -10,7 +10,7 @@ Hope Schroeder here. I’m a PhD student at the [MIT Center for Constructive Com
 
 Get in touch if you want to talk about NLP, facilitated dialogue, AI in social research, or unique methods of understanding the media ecosystem.
 
-Some recent updates (4/2025):
+**Recent updates (4/2025):**
 
 * I'm excited to share three pieces of **accepted work** at CHI 2025!
   
@@ -22,7 +22,8 @@ Some recent updates (4/2025):
   
   * This work stemmed from time with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team at Microsoft Research Labs in 2024, and Akshansh Pareek is also a collaborator. Pre-print forthcoming!
 
-Some older updates:
+**Some older updates:**
+
 * I'm back at MIT for the 2024-25 school year after interning at Microsoft Research Labs in New York City with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team during summer of 2024. Our project evaluating opportunities, risks, and trade-offs of LLMs in inductive text analysis is forthcoming.
 * I presented my work on the impacts of LLM-assisted text annotation at [Computation + Journalism](https://idi.provost.northeastern.edu/event-directory/the-2024-computation-journalism-symposium/) at Northeastern on October 26th, 2024. 
 * "Fora: A corpus and framework for the study of facilitated dialogue" was presented at ACL 2024 Main Conference and IC2S2 2024. Learn more about the corpus [here](https://github.com/schropes/fora-corpus) and read the paper [here]([https://aclanthology.org/2024.acl-long.754.pdf])!
