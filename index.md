@@ -14,13 +14,13 @@ Some recent updates (4/2025):
 
 * I'm excited to share three pieces of **accepted work** at CHI 2025!
   
-*   My collaboration with Marianne Aubin Le Quéré on ["LLMs in Qualitative Research"](https://arxiv.org/abs/2410.07362) is coming out as a full paper
-*   My collaboration with Doug Beeferman studying engagement with a RAG-based conversation sensemaking prototype is forthcoming as late-breaking work
-*   A collaboration led by Rock Pang on ["Understanding the LLM-ification of CHI"](https://arxiv.org/pdf/2501.12557) is accepted as a full paper, stemming from work done at Microsoft Research Labs in 2024
+  * My collaboration with Marianne Aubin Le Quéré on ["LLMs in Qualitative Research"](https://arxiv.org/abs/2410.07362) is coming out as a full paper
+  * My collaboration with Doug Beeferman studying engagement with a RAG-based conversation sensemaking prototype is forthcoming as late-breaking work
+  * A collaboration led by Rock Pang on ["Understanding the LLM-ification of CHI"](https://arxiv.org/pdf/2501.12557) is accepted as a full paper, stemming from work done at Microsoft Research Labs in 2024
+
+* My piece, "Disclosure without Engagement," a paper reviewing positionality statements at FAccT 2018–2024, has been **accepted at FAccT 2025**.
   
-* My piece, "Disclosure without Engagement," a paper reviewing positionality statements at FAccT 2018-2024, has been **accepted at FAccT 2025**.
-  
-*   This work stemmed from time with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team at Microsoft Research Labs in 2024, and Akshansh Pareek is also a collaborator. Pre-print forthcoming!
+  * This work stemmed from time with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team at Microsoft Research Labs in 2024, and Akshansh Pareek is also a collaborator. Pre-print forthcoming!
 
 Some older updates:
 * I'm back at MIT for the 2024-25 school year after interning at Microsoft Research Labs in New York City with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team during summer of 2024. Our project evaluating opportunities, risks, and trade-offs of LLMs in inductive text analysis is forthcoming.
