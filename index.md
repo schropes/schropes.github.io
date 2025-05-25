@@ -1,7 +1,6 @@
 # Hope's Page
 
 
-
 <img src="/headshot_smiling.jpg" alt="headshot" width="200"/>
 
 Hi!
@@ -10,17 +9,18 @@ Hope Schroeder here. I’m a PhD student at the [MIT Center for Constructive Com
 
 Get in touch if you want to talk about NLP, facilitated dialogue, AI in social research, or unique methods of understanding the media ecosystem.
 
-**Recent updates (4/2025):**
+**Recent updates (5/2025):**
 
-* I'm excited to share three pieces of **accepted work** at CHI 2025!
-  
-  * My collaboration with Marianne Aubin Le Quéré on ["LLMs in Qualitative Research"](https://arxiv.org/abs/2410.07362) is coming out as a full paper
-  * My collaboration with Doug Beeferman studying engagement with a RAG-based conversation sensemaking prototype is forthcoming as late-breaking work. We engaged NPR journalists and city government workers from The City of Durham, North Carolina as users!
-  * A collaboration led by Rock Pang on ["Understanding the LLM-ification of CHI"](https://arxiv.org/pdf/2501.12557) is accepted as a full paper, stemming from work done at Microsoft Research Labs in 2024
+* My piece, "Disclosure without Engagement," a paper reviewing positionality statements at FAccT 2018–2024, will be **presented at FAccT 2025**. This work stemmed from time with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team at Microsoft Research Labs in 2024, and Akshansh Pareek is also a collaborator. Pre-print forthcoming!
+* My piece with Deb Roy and Jad Kabbara on using LLMs in subjective annotation tasks, "Just put a human in the loop?", has been accepted to ACL Findings 2025. Pre-print forthcoming!
+* I appeared at a symposium on AI in Social Science at APS 2025 in Washington DC!
 
-* My piece, "Disclosure without Engagement," a paper reviewing positionality statements at FAccT 2018–2024, has been **accepted at FAccT 2025**.
+* I was thrilled to share three pieces of **accepted work** at CHI 2025:
   
-  * This work stemmed from time with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team at Microsoft Research Labs in 2024, and Akshansh Pareek is also a collaborator. Pre-print forthcoming!
+  * My collaboration with Marianne Aubin Le Quéré on ["LLMs in Qualitative Research"](https://dl.acm.org/doi/full/10.1145/3706598.3713120)) was presented as a full paper
+  * My collaboration with Doug Beeferman studying engagement with a RAG-based conversation sensemaking prototype is forthcoming as late-breaking work. We engaged NPR journalists and city government workers from The City of Durham, North Carolina as users! Try the prototype [here](http://forage.ccc-mit.org:8501/) and read the paper [here](https://dl.acm.org/doi/pdf/10.1145/3706599.3719756)
+  * A collaboration led by Rock Pang on ["Understanding the LLM-ification of CHI"](https://arxiv.org/pdf/2501.12557) was presented as a full paper, stemming from work done at Microsoft Research Labs in 2024
+
 
 **Some older updates:**
 
