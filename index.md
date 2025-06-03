@@ -11,7 +11,7 @@ Get in touch if you want to talk about NLP, facilitated dialogue, AI in social r
 
 **Recent updates (5/2025):**
 
-* My piece, "Disclosure without Engagement," a paper reviewing positionality statements at FAccT 2018–2024, will be **presented at FAccT 2025**. This work stemmed from time with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team at Microsoft Research Labs in 2024, and Akshansh Pareek is also a collaborator. Pre-print forthcoming!
+* My piece, "Disclosure without Engagement," a paper reviewing positionality statements at FAccT 2018–2024, will be **presented at FAccT 2025**. This work stemmed from time with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team at Microsoft Research Labs in 2024, and Akshansh Pareek is also a collaborator. Pre-print hosted [here](https://drive.google.com/file/d/1rEiNF26WRIChD0D4hGz_WrQ5WDZY2Heb/view?usp=sharing)!
 * My piece with Deb Roy and Jad Kabbara on using LLMs in subjective annotation tasks, "Just put a human in the loop?", has been accepted to ACL Findings 2025, and will also be presented at IC2S2. Pre-print forthcoming!
 * I appeared at a symposium on AI in Social Science at APS 2025 in Washington DC with Nat Rabb, Tom Costello, and Ilia Sucholutsky!
 
