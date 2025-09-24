@@ -10,7 +10,7 @@ Right now, I'm studying LLMs as interpretation machines-- in text analysis for t
 **Recent updates (9/2025):**
 
 * My piece with Deb Roy and Jad Kabbara on using LLMs in subjective annotation tasks, "Just put a human in the loop?", was accepted to **ACL Findings 2025**, and was presented as a **talk at IC2S2**. ACL Proceedings hosted [here](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-acl.1323.pdf)!
-* My piece, "Disclosure without Engagement," a paper reviewing positionality statements at FAccT 2018–2024, was **presented at FAccT 2025**. This work stemmed from time with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team at Microsoft Research Labs in 2024, and Akshansh Pareek is also a collaborator. FAccT Proceedings hosted [here](https://dl.acm.org/doi/pdf/10.1145/3715275.3732079))!
+* My piece, "Disclosure without Engagement," a paper reviewing positionality statements at FAccT 2018–2024, was **presented at FAccT 2025**. This work stemmed from time with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team at Microsoft Research Labs in 2024, and Akshansh Pareek is also a collaborator. FAccT Proceedings hosted [here](https://dl.acm.org/doi/pdf/10.1145/3715275.3732079)!
 * I appeared at a symposium on AI in Social Science at APS 2025 in Washington DC in May with Nat Rabb, Tom Costello, and Ilia Sucholutsky!
 
 * I shared three pieces of **accepted work** at CHI 2025 in May:
