@@ -1,5 +1,3 @@
-# Hope's Page
-
 
 <img src="/headshot_smiling.jpg" alt="headshot" width="200"/>
 
@@ -7,15 +5,15 @@ Hi!
 
 Hope Schroeder here. I’m a PhD student at the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/). I'm interested in how language technologies can help us investigate social phenomena and facilitate communication on major challenges in the world today. 
 
-Get in touch if you want to talk about NLP, facilitated dialogue, AI in social research, or unique methods of understanding the media ecosystem.
+Right now, I'm studying LLMs as interpretation machines-- in text analysis for the social sciences, in sensemaking, in dialogue within communities, and beyond. Get in touch if you want to talk about NLP, facilitated dialogue, AI in social research, or unique methods of understanding the media ecosystem.
 
-**Recent updates (5/2025):**
+**Recent updates (9/2025):**
 
-* My piece, "Disclosure without Engagement," a paper reviewing positionality statements at FAccT 2018–2024, will be **presented at FAccT 2025**. This work stemmed from time with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team at Microsoft Research Labs in 2024, and Akshansh Pareek is also a collaborator. Pre-print hosted [here](https://drive.google.com/file/d/1rEiNF26WRIChD0D4hGz_WrQ5WDZY2Heb/view?usp=sharing)!
-* My piece with Deb Roy and Jad Kabbara on using LLMs in subjective annotation tasks, "Just put a human in the loop?", has been accepted to **ACL Findings 2025**, and will also be presented as a **talk at IC2S2**. Pre-print hosted [here](https://drive.google.com/file/d/1C3_q4dVz-lfds2ra9qVLOCN7MPE15lC6/view?usp=sharing)!
-* I appeared at a symposium on AI in Social Science at APS 2025 in Washington DC with Nat Rabb, Tom Costello, and Ilia Sucholutsky!
+* My piece with Deb Roy and Jad Kabbara on using LLMs in subjective annotation tasks, "Just put a human in the loop?", was accepted to **ACL Findings 2025**, and was presented as a **talk at IC2S2**. ACL Proceedings hosted [here](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-acl.1323.pdf)!
+* My piece, "Disclosure without Engagement," a paper reviewing positionality statements at FAccT 2018–2024, was **presented at FAccT 2025**. This work stemmed from time with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team at Microsoft Research Labs in 2024, and Akshansh Pareek is also a collaborator. FAccT Proceedings hosted [here](https://dl.acm.org/doi/pdf/10.1145/3715275.3732079))!
+* I appeared at a symposium on AI in Social Science at APS 2025 in Washington DC in May with Nat Rabb, Tom Costello, and Ilia Sucholutsky!
 
-* I shared three pieces of **accepted work** at CHI 2025:
+* I shared three pieces of **accepted work** at CHI 2025 in May:
   
   * My collaboration with Marianne Aubin Le Quéré on ["LLMs in Qualitative Research"](https://dl.acm.org/doi/full/10.1145/3706598.3713120)) was presented as a full paper
   * My collaboration with Doug Beeferman studying engagement with a RAG-based conversation sensemaking prototype is forthcoming as late-breaking work. We engaged NPR journalists and city government workers from The City of Durham, North Carolina as users! Try the prototype [here](http://forage.ccc-mit.org:8501/) and read the paper [here](https://dl.acm.org/doi/pdf/10.1145/3706599.3719756)
