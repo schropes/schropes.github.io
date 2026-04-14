@@ -5,18 +5,28 @@ Hi!
 
 Hope Schroeder here. I’m a PhD student at the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/). I'm interested in how language technologies can help us investigate social phenomena and facilitate communication on major challenges in the world today. 
 
-Right now, I'm studying LLMs as interpretation machines-- in text analysis for the social sciences, in sensemaking, in dialogue within communities, and beyond. Get in touch if you want to talk about NLP, facilitated dialogue, AI in social research, or unique methods of understanding the media ecosystem.
+I'm studying LLMs as interpretation machines-- in text analysis for the social sciences, in sensemaking, in dialogue within communities, and beyond. Get in touch if you want to talk about NLP, facilitated dialogue, AI in social research, or unique methods of understanding the media ecosystem.
 
-**Recent updates (9/2025):**
+**I will be on the job market in 2026-2027.**
+
+**2026 updates:**
+
+
+* I am sharing three pieces of **accepted work** at CHI 2026:
+  
+  * My collaboration with Doug Beeferman studying user engagement with a RAG-based conversation sensemaking prototypecalled Forage. We engaged NPR journalists and city government workers from The City of Durham, North Carolina as users! Try the prototype [here](http://forage.ccc-mit.org:8501/) and read the paper [here](https://dl.acm.org/doi/10.1145/3772318.3791640)
+  * I am running a workshop led by William Agnew and co-organizing with Shivani Kapania, Marianne Aubin le Quéré, Sarah Fox, and Hoda Heidari, on the subject of developing standards for LLMs in human subjects research. Workshop website is [here](https://sites.google.com/andrew.cmu.edu/chi-llm-simulacra/home).
+  * I am a contributing author on "Interpretive Cultures: Resonance, randomness, and negotiated meaning for AI-assisted tarot divination," led by Matthew Prock and Ziv Epstein. Read the paper (here)[https://dl.acm.org/doi/10.1145/3772318.3791571] and consider another way that people are using AI to make sense of their personal experiences!
+
+**2025 updates:**
 
 * My piece with Deb Roy and Jad Kabbara on using LLMs in subjective annotation tasks, "Just put a human in the loop?", was accepted to **ACL Findings 2025**, and was presented as a **talk at IC2S2**. ACL Proceedings hosted [here](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-acl.1323.pdf)!
 * My piece, "Disclosure without Engagement," a paper reviewing positionality statements at FAccT 2018–2024, was **presented at FAccT 2025**. This work stemmed from time with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team at Microsoft Research Labs in 2024, and Akshansh Pareek is also a collaborator. FAccT Proceedings hosted [here](https://dl.acm.org/doi/pdf/10.1145/3715275.3732079)!
-* I appeared at a symposium on AI in Social Science at APS 2025 in Washington DC in May with Nat Rabb, Tom Costello, and Ilia Sucholutsky!
 
-* I shared three pieces of **accepted work** at CHI 2025 in May:
+* I shared three pieces of **accepted work** at CHI 2025:
   
   * My collaboration with Marianne Aubin Le Quéré on ["LLMs in Qualitative Research"](https://dl.acm.org/doi/full/10.1145/3706598.3713120)) was presented as a full paper
-  * My collaboration with Doug Beeferman studying engagement with a RAG-based conversation sensemaking prototype is forthcoming as late-breaking work. We engaged NPR journalists and city government workers from The City of Durham, North Carolina as users! Try the prototype [here](http://forage.ccc-mit.org:8501/) and read the paper [here](https://dl.acm.org/doi/pdf/10.1145/3706599.3719756)
+  * We presented a late-breaking work version of the Forage project at CHI. Read the paper [here](https://dl.acm.org/doi/pdf/10.1145/3706599.3719756)
   * A collaboration led by Rock Pang on ["Understanding the LLM-ification of CHI"](https://arxiv.org/pdf/2501.12557) was presented as a full paper, stemming from work done at Microsoft Research Labs in 2024
 
 
