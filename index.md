@@ -16,7 +16,7 @@ I'm studying LLMs as interpretation machines-- in text analysis for the social s
   
   * My collaboration with Doug Beeferman studying user engagement with a RAG-based conversation sensemaking prototypecalled Forage. We engaged NPR journalists and city government workers from The City of Durham, North Carolina as users! Try the prototype [here](http://forage.ccc-mit.org:8501/) and read the paper [here](https://dl.acm.org/doi/10.1145/3772318.3791640)
   * I am running a workshop led by William Agnew and co-organizing with Shivani Kapania, Marianne Aubin le Quéré, Sarah Fox, and Hoda Heidari, on the subject of developing standards for LLMs in human subjects research. Workshop website is [here](https://sites.google.com/andrew.cmu.edu/chi-llm-simulacra/home).
-  * I am a contributing author on "Interpretive Cultures: Resonance, randomness, and negotiated meaning for AI-assisted tarot divination," led by Matthew Prock and Ziv Epstein. Read the paper (here)[https://dl.acm.org/doi/10.1145/3772318.3791571] and consider another way that people are using AI to make sense of their personal experiences!
+  * I am a contributing author on "Interpretive Cultures: Resonance, randomness, and negotiated meaning for AI-assisted tarot divination," led by Matthew Prock and Ziv Epstein. Read the paper [here](https://dl.acm.org/doi/10.1145/3772318.3791571) and consider another way that people are using AI to make sense of their personal experiences!
 
 **2025 updates:**
 
