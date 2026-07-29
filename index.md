@@ -6,9 +6,7 @@ I'm **Hope Schroeder**, a PhD candidate at the [MIT Center for Constructive Comm
 
 I study **how AI changes the way people produce, interpret, and communicate knowledge.** My research sits at the intersection of **Human–Computer Interaction, Natural Language Processing, and Computational Social Science**, where I design and study AI systems that support sensemaking, data analysis, and scientific inquiry.
 
-Across my work, I'm interested in how language technologies help people understand complex social phenomena—from AI-assisted qualitative analysis and conversation exploration to facilitated dialogue, research methodology, and the ways AI influences human judgment.
-
-**I will be on the faculty job market in 2026–2027.** If you'd like to chat, I'd love to hear from you.
+**I am on the faculty job market in 2026–2027.** If you'd like to chat, I'd love to hear from you.
 
 ---
 
