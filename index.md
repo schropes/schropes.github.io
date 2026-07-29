@@ -86,55 +86,11 @@ Three accepted papers and workshops:
 
 ---
 
-## 2025
-
-### ACL Findings 2025
-
-**Just Put a Human in the Loop?**
-
-With Deb Roy and Jad Kabbara, I studied the use of LLMs in subjective annotation tasks. This work was also presented as a talk at IC2S2.
-
-https://aclanthology.org/anthology-files/pdf/findings/2025.findings-acl.1323.pdf
-
-### FAccT 2025
-
-**Disclosure without Engagement**
-
-A study of positionality statements in AI research, stemming from work with Solon Barocas and the FATE group at Microsoft Research.
-
-https://dl.acm.org/doi/pdf/10.1145/3715275.3732079
-
-### CHI 2025
-
-- **LLMs in Qualitative Research**
-- **Forage** (Late Breaking Work)
-- **Understanding the LLM-ification of CHI**
-
----
-
-## Earlier Work
-
-- **Fora:** A corpus and framework for studying facilitated dialogue (ACL 2024)
-
-  Corpus:
-  https://github.com/schropes/fora-corpus
-
-  Paper:
-  https://aclanthology.org/2024.acl-long.754.pdf
-
-- CHI 2024 Workshop on LLMs as Research Tools
-
-- *Art and the Science of Generative AI* (Science, 2023)
-
-- Co-instructor, *Generative AI for Constructive Communication* (MIT)
-
----
-
-# About
-
-Before joining MIT, I was a predoctoral fellow at Stanford Law School working with Professor Julian Nyarko on applications of NLP to legal and policy questions.
+# More about me
 
 I hold an MSc (Distinction) in Social Data Science from the Oxford Internet Institute as a Clarendon Scholar at Christ Church, Oxford, and a BS with Honors in Symbolic Systems from Stanford University.
+
+During my PhD, I have interned at Microsoft Research NYC twice, once in 2023 with David Rothschild on the Computational Social Science team, and once in 2024 with Solon Barocas on the FATE team.
 
 Earlier in my career, I worked on projects using VR and AR to document and reinterpret contested public spaces. Our **Dear Visitor** project received international press coverage, and a case study on this work received the **Best Case Study Award at CHI 2023**.
 
