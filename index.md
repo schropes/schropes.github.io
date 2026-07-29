@@ -8,47 +8,69 @@ I study **how AI changes the way people produce, interpret, and communicate know
 
 Across my work, I'm interested in how language technologies help people understand complex social phenomena—from AI-assisted qualitative analysis and conversation exploration to facilitated dialogue, research methodology, and the ways AI influences human judgment.
 
-**I will be on the faculty job market in 2026–2027.**
-
-If you'd like to chat about NLP, human-centered AI, computational social science, qualitative research, or AI-assisted sensemaking, I'd love to hear from you.
+**I will be on the faculty job market in 2026–2027.** If you'd like to chat, I'd love to hear from you.
 
 ---
 
-# Selected Projects
+# Research
 
-### 🧠 AI for Human Sensemaking
+My research asks how AI is transforming the production, interpretation, and communication of knowledge. 
+A central theme of my work is understanding **LLMs as interpretation machines**: systems that increasingly participate in how people analyze information, construct meaning, and produce knowledge.
 
-**Forage (CHI 2026)**  
-A retrieval-augmented system for exploring large collections of conversations. We studied how journalists at NPR and staff from the City of Durham use AI to investigate public dialogue and synthesize qualitative data.
-
-- Prototype: http://forage.ccc-mit.org:8501/
-- Paper: https://dl.acm.org/doi/10.1145/3772318.3791640
+My work focuses on three connected questions:
 
 ---
 
-### 🤝 Human–AI Collaboration
+## 1. Understanding AI-Mediated Interpretation and Judgment
 
-**Just Put a Human in the Loop? (ACL Findings 2025)**
+When AI systems participate in interpretation, how do they influence human reasoning?
 
-How should AI collaborate with people on subjective annotation tasks? This work studies the benefits and pitfalls of LLM-assisted qualitative coding.
+I study when AI assistance improves judgment, when people over-rely on AI outputs, and how AI changes subjective decision-making processes. I use experimental and qualitative methods to understand how people incorporate AI-generated interpretations into their work.
 
-Paper:
-https://aclanthology.org/anthology-files/pdf/findings/2025.findings-acl.1323.pdf
+Projects include:
+
+- **[Just Put a Human in the Loop?]([LINK](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-acl.1323.pdf))** (ACL Findings 2025): an experimental study of LLM-assisted subjective annotation, examining how people use and evaluate AI-generated suggestions in interpretive tasks.
+- Research on **AI-assisted qualitative coding and annotation**, investigating how LLMs influence human labeling, judgment, and decision-making.
+
+---
+
+## 2. Designing AI Systems for Knowledge Work
+
+How can we design AI systems that support human sensemaking from multiple perspectives while preserving expertise and judgment?
+
+I build and evaluate AI tools that augment qualitative analysis, conversation exploration, and research workflows. These systems serve as both practical tools and research instruments for understanding how people use AI to make sense of complex information.
+
+Projects include:
+
+- **[Forage](http://forage.ccc-mit.org:8501/)** (CHI 2026): a RAG-based conversation sensemaking system studied with NPR journalists and public-sector workers from The City of Durham, North Carolina.
+  - Paper: [CHI 2026 paper](https://dl.acm.org/doi/10.1145/3772318.3791640)
+
+- **[LLMs in Qualitative Research](https://dl.acm.org/doi/full/10.1145/3706598.3713120)** (CHI 2025): examining opportunities and challenges for integrating LLMs into qualitative research workflows.
+
+- **[Fora: A Corpus and Framework for the Study of Facilitated Dialogue](https://github.com/schropes/fora-corpus)** (ACL 2024): a dataset and framework for studying facilitated dialogue and collaborative meaning-making.
+  - Paper: [ACL 2024 paper](https://aclanthology.org/2024.acl-long.754/)
 
 ---
 
-### 🔬 AI and Scientific Practice
+## 3. AI and the Transformation of Knowledge Production
 
-My recent work examines how AI is changing the research process itself.
+As AI becomes part of research and communication, how do norms, methods, and institutions change?
 
-Recent projects include
+I investigate how AI reshapes scientific practice, accountability, and the social processes through which knowledge is produced.
 
-- **Disclosure without Engagement** (FAccT 2025), studying positionality statements in AI research
-- **LLMs in Qualitative Research** (CHI 2025)
-- Developing standards for LLMs in human subjects research (CHI 2026 Workshop)
-- **Understanding the LLM-ification of CHI** (CHI 2025)
+Projects include:
 
----
+- **[Disclosure without Engagement](https://dl.acm.org/doi/pdf/10.1145/3715275.3732079)** (FAccT 2025): a study of positionality statements in FAccT, a major AI research community and how researchers engage with questions of accountability and reflexivity.
+
+- **[Understanding the LLM-ification of CHI](https://arxiv.org/pdf/2501.12557)** (CHI 2025): examining how generative AI is reshaping HCI research practices and communities.
+
+- **[Interpretive Cultures: Resonance, Randomness, and Negotiated Meaning for AI-Assisted Tarot Divination](https://dl.acm.org/doi/10.1145/3772318.3791571)** (CHI 2026): studying how people use AI systems to interpret and make sense of personal experiences.
+
+I also actively contribute to the development of emerging standards within HCI communities related to AI in mixed methods work with scientific and civic impacts. My past workshops include:
+
+- **[Standards for LLMs in Human Subjects Research](https://sites.google.com/andrew.cmu.edu/chi-llm-simulacra/home)** (CHI 2026 Workshop): developing methodological guidance for researchers using LLMs in human-subjects studies.
+- **[LLMs as Research Tools](https://dl.acm.org/doi/10.1145/3613905.3636301)** (CHI 2024 Workshop): convening researchers around the use of LLMs in research within HCI and related fields.
+- **[NLP for Democracy](https://sites.google.com/andrew.cmu.edu/nlp4democracy/home)** (COLM 2025 Workshop): convening researchers in NLP, HCI, and related fields using LLMs in democracy-related work.
 
 # Recent News
 
@@ -60,19 +82,9 @@ Three accepted papers and workshops:
 
 - My collaboration with Doug Beeferman studying user engagement with the RAG-based conversation sensemaking system **Forage**. We worked with NPR journalists and the City of Durham.
 
-  Prototype:
-  http://forage.ccc-mit.org:8501/
+  [Prototype:](http://forage.ccc-mit.org:8501/), [CHI Paper](https://dl.acm.org/doi/10.1145/3772318.3791640)
 
-  Paper:
-  https://dl.acm.org/doi/10.1145/3772318.3791640
-
-- I am co-organizing a CHI workshop (led by William Agnew) on developing standards for LLMs in human subjects research alongside Shivani Kapania, Marianne Aubin Le Quéré, Sarah Fox, and Hoda Heidari.
-
-  https://sites.google.com/andrew.cmu.edu/chi-llm-simulacra/home
-
-- I am a contributing author on *Interpretive Cultures: Resonance, Randomness, and Negotiated Meaning for AI-Assisted Tarot Divination*, led by Matthew Prock and Ziv Epstein.
-
-  https://dl.acm.org/doi/10.1145/3772318.3791571
+- Organized a CHI [workshop](https://sites.google.com/andrew.cmu.edu/chi-llm-simulacra/home) (led by William Agnew) on developing standards for LLMs in human subjects research alongside Shivani Kapania, Marianne Aubin Le Quéré, Sarah Fox, and Hoda Heidari.
 
 ---
 
