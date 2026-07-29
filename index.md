@@ -8,7 +8,7 @@ I study **how AI changes the way people produce, interpret, and communicate know
 
 My current project investigates pro-AI bias in language models, and how it can affect measurement in AI safety evaluations and social science.
 
-**I am on the faculty job market in 2026–2027.** If you'd like to chat, I'd love to hear from you.
+**I am on the academic faculty job market and industry research job market in 2026–2027.** If you'd like to chat, I'd love to hear from you.
 
 ---
 
