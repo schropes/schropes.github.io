@@ -1,55 +1,140 @@
-
 <img src="/headshot_smiling.jpg" alt="headshot" width="200"/>
 
-Hi!
+# Hi!
 
-Hope Schroeder here. I’m a PhD student at the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/). I'm interested in how language technologies can help us investigate social phenomena and facilitate communication on major challenges in the world today. 
+I'm **Hope Schroeder**, a PhD candidate at the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/).
 
-I'm studying LLMs as interpretation machines-- in text analysis for the social sciences, in sensemaking, in dialogue within communities, and beyond. Get in touch if you want to talk about NLP, facilitated dialogue, AI in social research, or unique methods of understanding the media ecosystem.
+I study **how AI changes the way people produce, interpret, and communicate knowledge.** My research sits at the intersection of **Human–Computer Interaction, Natural Language Processing, and Computational Social Science**, where I design and study AI systems that support sensemaking, data analysis, and scientific inquiry.
 
-**I will be on the job market in 2026-2027.**
+Across my work, I'm interested in how language technologies help people understand complex social phenomena—from AI-assisted qualitative analysis and conversation exploration to facilitated dialogue, research methodology, and the ways AI influences human judgment.
 
-**2026 updates:**
+**I will be on the faculty job market in 2026–2027.**
 
+If you'd like to chat about NLP, human-centered AI, computational social science, qualitative research, or AI-assisted sensemaking, I'd love to hear from you.
 
-* I am sharing three pieces of **accepted work** at CHI 2026:
-  
-  * My collaboration with Doug Beeferman studying user engagement with a RAG-based conversation sensemaking prototypecalled Forage. We engaged NPR journalists and city government workers from The City of Durham, North Carolina as users! Try the prototype [here](http://forage.ccc-mit.org:8501/) and read the paper [here](https://dl.acm.org/doi/10.1145/3772318.3791640)
-  * I am running a workshop led by William Agnew and co-organizing with Shivani Kapania, Marianne Aubin le Quéré, Sarah Fox, and Hoda Heidari, on the subject of developing standards for LLMs in human subjects research. Workshop website is [here](https://sites.google.com/andrew.cmu.edu/chi-llm-simulacra/home).
-  * I am a contributing author on "Interpretive Cultures: Resonance, randomness, and negotiated meaning for AI-assisted tarot divination," led by Matthew Prock and Ziv Epstein. Read the paper [here](https://dl.acm.org/doi/10.1145/3772318.3791571) and consider another way that people are using AI to make sense of their personal experiences!
+---
 
-**2025 updates:**
+# Selected Projects
 
-* My piece with Deb Roy and Jad Kabbara on using LLMs in subjective annotation tasks, "Just put a human in the loop?", was accepted to **ACL Findings 2025**, and was presented as a **talk at IC2S2**. ACL Proceedings hosted [here](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-acl.1323.pdf)!
-* My piece, "Disclosure without Engagement," a paper reviewing positionality statements at FAccT 2018–2024, was **presented at FAccT 2025**. This work stemmed from time with Solon Barocas on the Fairness, Accountability, Transparency, and Ethics in AI (FATE) team at Microsoft Research Labs in 2024, and Akshansh Pareek is also a collaborator. FAccT Proceedings hosted [here](https://dl.acm.org/doi/pdf/10.1145/3715275.3732079)!
+### 🧠 AI for Human Sensemaking
 
-* I shared three pieces of **accepted work** at CHI 2025:
-  
-  * My collaboration with Marianne Aubin Le Quéré on ["LLMs in Qualitative Research"](https://dl.acm.org/doi/full/10.1145/3706598.3713120)) was presented as a full paper
-  * We presented a late-breaking work version of the Forage project at CHI. Read the paper [here](https://dl.acm.org/doi/pdf/10.1145/3706599.3719756)
-  * A collaboration led by Rock Pang on ["Understanding the LLM-ification of CHI"](https://arxiv.org/pdf/2501.12557) was presented as a full paper, stemming from work done at Microsoft Research Labs in 2024
+**Forage (CHI 2026)**  
+A retrieval-augmented system for exploring large collections of conversations. We studied how journalists at NPR and staff from the City of Durham use AI to investigate public dialogue and synthesize qualitative data.
 
+- Prototype: http://forage.ccc-mit.org:8501/
+- Paper: https://dl.acm.org/doi/10.1145/3772318.3791640
 
-**Some older updates:**
-* "Fora: A corpus and framework for the study of facilitated dialogue" was presented at ACL 2024 Main Conference and IC2S2 2024. Learn more about the corpus [here](https://github.com/schropes/fora-corpus) and read the paper [here]([https://aclanthology.org/2024.acl-long.754.pdf])!
-* Our CHI 2024 workshop on [LLMs as Research Tools](https://sites.google.com/view/llmsindatawork/home) has led to follow-up work understanding LLMs in qualitative research.
-* In June 2023, [Art and the Science of Generative AI](https://www.science.org/doi/full/10.1126/science.adh4451), led by Ziv Epstein, came out as a Science Perspectives piece.
-* In Spring 2023, I co-instructed a course on [Generative AI for Constructive Communication at MIT](https://ai4comm.media.mit.edu/).
+---
 
-## About Me
-Before coming to MIT, I was a pre-doctoral fellow at Stanford Law School working with Professor Julian Nyarko on applications of NLP methods for legal and policy questions. Before that, I graduated with an MSc in [Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/) (Distinction) at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/) as a [Clarendon Scholar](http://www.ox.ac.uk/clarendon) at [Christ Church](https://www.chch.ox.ac.uk/). I was a 2019 graduate of Stanford in [Symbolic Systems](https://symsys.stanford.edu/) with honors. 
+### 🤝 Human–AI Collaboration
 
-Before getting into data science, I worked on projects using VR & AR to document and reimagine contested areas of public space. Our [Magic Grant](https://brown.columbia.edu/propose/) project on a contested plaque [site at Stanford](https://www.dearvisitor.app/) received [global press](https://www.dearvisitor.app/press). A [case study](https://arxiv.org/abs/2302.02050) on this work received the Best Case Study Award at [CHI 2023](https://chi2023.acm.org/)!
+**Just Put a Human in the Loop? (ACL Findings 2025)**
 
-### Contact
-Get in touch: hi@hopeschroeder.com
+How should AI collaborate with people on subjective annotation tasks? This work studies the benefits and pitfalls of LLM-assisted qualitative coding.
 
-[Google Scholar](https://scholar.google.com/citations?user=-UKCJTAAAAAJ&hl=en)
+Paper:
+https://aclanthology.org/anthology-files/pdf/findings/2025.findings-acl.1323.pdf
 
-[Bluesky](https://bsky.app/profile/hopeschroeder.bsky.social)
+---
 
-[LinkedIn](https://www.linkedin.com/in/hopeschroeder/)
+### 🔬 AI and Scientific Practice
 
-[Twitter, but on the outs](https://twitter.com/Schropes)
+My recent work examines how AI is changing the research process itself.
 
+Recent projects include
 
+- **Disclosure without Engagement** (FAccT 2025), studying positionality statements in AI research
+- **LLMs in Qualitative Research** (CHI 2025)
+- Developing standards for LLMs in human subjects research (CHI 2026 Workshop)
+- **Understanding the LLM-ification of CHI** (CHI 2025)
+
+---
+
+# Recent News
+
+## 2026
+
+### CHI 2026
+
+Three accepted papers and workshops:
+
+- My collaboration with Doug Beeferman studying user engagement with the RAG-based conversation sensemaking system **Forage**. We worked with NPR journalists and the City of Durham.
+
+  Prototype:
+  http://forage.ccc-mit.org:8501/
+
+  Paper:
+  https://dl.acm.org/doi/10.1145/3772318.3791640
+
+- I am co-organizing a CHI workshop (led by William Agnew) on developing standards for LLMs in human subjects research alongside Shivani Kapania, Marianne Aubin Le Quéré, Sarah Fox, and Hoda Heidari.
+
+  https://sites.google.com/andrew.cmu.edu/chi-llm-simulacra/home
+
+- I am a contributing author on *Interpretive Cultures: Resonance, Randomness, and Negotiated Meaning for AI-Assisted Tarot Divination*, led by Matthew Prock and Ziv Epstein.
+
+  https://dl.acm.org/doi/10.1145/3772318.3791571
+
+---
+
+## 2025
+
+### ACL Findings 2025
+
+**Just Put a Human in the Loop?**
+
+With Deb Roy and Jad Kabbara, I studied the use of LLMs in subjective annotation tasks. This work was also presented as a talk at IC2S2.
+
+https://aclanthology.org/anthology-files/pdf/findings/2025.findings-acl.1323.pdf
+
+### FAccT 2025
+
+**Disclosure without Engagement**
+
+A study of positionality statements in AI research, stemming from work with Solon Barocas and the FATE group at Microsoft Research.
+
+https://dl.acm.org/doi/pdf/10.1145/3715275.3732079
+
+### CHI 2025
+
+- **LLMs in Qualitative Research**
+- **Forage** (Late Breaking Work)
+- **Understanding the LLM-ification of CHI**
+
+---
+
+## Earlier Work
+
+- **Fora:** A corpus and framework for studying facilitated dialogue (ACL 2024)
+
+  Corpus:
+  https://github.com/schropes/fora-corpus
+
+  Paper:
+  https://aclanthology.org/2024.acl-long.754.pdf
+
+- CHI 2024 Workshop on LLMs as Research Tools
+
+- *Art and the Science of Generative AI* (Science, 2023)
+
+- Co-instructor, *Generative AI for Constructive Communication* (MIT)
+
+---
+
+# About
+
+Before joining MIT, I was a predoctoral fellow at Stanford Law School working with Professor Julian Nyarko on applications of NLP to legal and policy questions.
+
+I hold an MSc (Distinction) in Social Data Science from the Oxford Internet Institute as a Clarendon Scholar at Christ Church, Oxford, and a BS with Honors in Symbolic Systems from Stanford University.
+
+Earlier in my career, I worked on projects using VR and AR to document and reinterpret contested public spaces. Our **Dear Visitor** project received international press coverage, and a case study on this work received the **Best Case Study Award at CHI 2023**.
+
+---
+
+# Contact
+
+📧 **hi@hopeschroeder.com**
+
+- [Google Scholar](https://scholar.google.com/citations?user=-UKCJTAAAAAJ&hl=en)
+- [Bluesky](https://bsky.app/profile/hopeschroeder.bsky.social)
+- [LinkedIn](https://www.linkedin.com/in/hopeschroeder/)
+- [Twitter/X](https://twitter.com/Schropes)
