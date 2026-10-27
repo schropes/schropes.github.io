@@ -108,13 +108,15 @@ Projects include:
 
 ---
 
-<h2 id="workshops">Workshops</h2>
+<h2 id="workshops">Service</h2>
 
 I also actively contribute to the development of emerging standards within HCI communities related to AI in mixed methods work with scientific and civic impacts. My past workshops include:
 
 - **[Standards for LLMs in Human Subjects Research](https://sites.google.com/andrew.cmu.edu/chi-llm-simulacra/home)** (CHI 2026 Workshop): developing methodological guidance for researchers using LLMs in human-subjects studies.
 - **[LLMs as Research Tools](https://dl.acm.org/doi/10.1145/3613905.3636301)** (CHI 2024 Workshop): convening researchers around the use of LLMs in research within HCI and related fields.
 - **[NLP for Democracy](https://sites.google.com/andrew.cmu.edu/nlp4democracy/home)** (COLM 2025 Workshop): convening researchers in NLP, HCI, and related fields using LLMs in democracy-related work.
+
+In addition to service to my academic communities, I am also actively involved as a Graduate Resident Advisor at MIT, where I have lived with and mentored undergraduates across fields at the Institute for four years.
 
 ---
 
