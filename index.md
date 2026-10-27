@@ -9,7 +9,7 @@
   /* ---------- Intro: headshot left, text right ---------- */
   .intro { display: flex; gap: 2.5rem; align-items: flex-start; margin-bottom: 2rem; scroll-margin-top: 4rem; }
   .intro img { width: 220px; flex-shrink: 0; border-radius: 4px;
-               box-shadow: 0 6px 20px rgba(0,0,0,0.12); margin-top: 4.5rem; }
+               box-shadow: 0 6px 20px rgba(0,0,0,0.12); margin-top: 3rem; }
   .intro-text { flex: 1; }
   .intro-text h1 { margin-top: 0; }
 
