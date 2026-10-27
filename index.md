@@ -31,7 +31,7 @@
   <a href="#teaching">Teaching</a>
   <a href="#about-me">About</a>
   <a href="#contact">Links</a>
-  <a href="/cv.pdf">CV</a>
+  <!-- href="/cv.pdf">CV-->
 </nav>
 
 <div class="intro" id="home">
