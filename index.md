@@ -1,4 +1,4 @@
-<img src="/headshot_smiling.jpg" alt="headshot" width="200"/>
+<img src="/headshot_2026.jpg" alt="headshot" width="200"/>
 
 # Hi!
 
