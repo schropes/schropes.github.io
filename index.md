@@ -1,20 +1,60 @@
-<img src="/headshot_2026.jpg" alt="headshot" width="200"/>
+<style>
+  /* ---------- Top navigation ---------- */
+  .topnav { position: sticky; top: 0; z-index: 10; background: #fff;
+            display: flex; flex-wrap: wrap; gap: 1.75rem; padding: 1rem 0; margin-bottom: 1.5rem; }
+  .topnav a { text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.85rem;
+              color: #8a8799; text-decoration: none; border: none; }
+  .topnav a:hover, .topnav a.active { color: #1f1b2e; font-weight: 600; }
 
-# Hi!
+  /* ---------- Intro: headshot left, text right ---------- */
+  .intro { display: flex; gap: 2.5rem; align-items: flex-start; margin-bottom: 2rem; scroll-margin-top: 4rem; }
+  .intro img { width: 220px; flex-shrink: 0; border-radius: 4px;
+               box-shadow: 0 6px 20px rgba(0,0,0,0.12); margin-top: 4.5rem; }
+  .intro-text { flex: 1; }
+  .intro-text h1 { margin-top: 0; }
 
-I'm **Hope Schroeder**, a PhD candidate at the [MIT Center for Constructive Communication](https://www.ccc.mit.edu/).
+  /* Keep headings from hiding under the sticky bar when jumped to */
+  h1[id], h2[id] { scroll-margin-top: 4rem; }
 
-I study **how AI changes the way people produce, interpret, and communicate knowledge.** My research sits at the intersection of **Human–Computer Interaction, Natural Language Processing, and Computational Social Science**, where I design and study AI systems that support sensemaking, data analysis, and scientific inquiry.
+  /* ---------- Mobile ---------- */
+  @media (max-width: 700px) {
+    .topnav { gap: 1rem; }
+    .intro { flex-direction: column; align-items: center; }
+    .intro img { margin-top: 0; }
+  }
+</style>
 
-My current project investigates pro-AI bias in language models, and how it can affect measurement in AI safety evaluations and social science.
+<nav class="topnav">
+  <a href="#about" class="active">About</a>
+  <a href="#research">Research</a>
+  <a href="#workshops">Workshops</a>
+  <a href="#more-about-me">Background</a>
+  <a href="#contact">Contact</a>
+  <a href="/cv.pdf">CV</a>
+</nav>
 
-**I am on the academic faculty job market and industry research job market in 2026–2027.** If you'd like to chat, I'd love to hear from you.
+<div class="intro" id="about">
+  <img src="/headshot_2026.jpg" alt="Hope Schroeder headshot">
+  <div class="intro-text">
+    <h1>Hi!</h1>
+    <p>I'm <strong>Hope Schroeder</strong>, a PhD candidate at the
+      <a href="https://www.ccc.mit.edu/">MIT Center for Constructive Communication</a>.</p>
+    <p>I study <strong>how AI changes the way people produce, interpret, and communicate knowledge.</strong>
+      My research sits at the intersection of <strong>Human–Computer Interaction, Natural Language Processing,
+      and Computational Social Science</strong>, where I design and study AI systems that support sensemaking,
+      data analysis, and scientific inquiry.</p>
+    <p>My current project investigates pro-AI bias in language models, and how it can affect measurement
+      in AI safety evaluations and social science.</p>
+    <p><strong>I am on the academic faculty job market and industry research job market in 2026–2027.</strong>
+      If you'd like to chat, I'd love to hear from you.</p>
+  </div>
+</div>
 
 ---
 
-# Research
+<h1 id="research">Research</h1>
 
-My research asks how AI is transforming the production, interpretation, and communication of knowledge. 
+My research asks how AI is transforming the production, interpretation, and communication of knowledge.
 A central theme of my work is understanding **LLMs as interpretation machines**: systems that increasingly participate in how people analyze information, construct meaning, and produce knowledge.
 
 My work focuses on three connected questions:
@@ -25,11 +65,11 @@ My work focuses on three connected questions:
 
 When AI systems participate in interpretation, how do they influence human reasoning?
 
-I study when AI assistance improves judgment, when people over-rely on AI outputs, and how AI changes subjective decision-making processes. 
+I study when AI assistance improves judgment, when people over-rely on AI outputs, and how AI changes subjective decision-making processes.
 
 Projects include:
 
-- **[Just Put a Human in the Loop?]([LINK](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-acl.1323.pdf))** (ACL Findings 2025): an large experimental study of LLM-assisted subjective annotation, examining how people use and evaluate AI-generated suggestions in interpretive tasks. Humans heavily anchor on LLM suggestions when annotating subjective data, even when they're given the chance to change the labels. The interface in which the suggestion is presented affects the strength of the effect. If humans "review" LLM outputs when constructing ground truth data set, they will likely overestimate the model's performance.
+- **[Just Put a Human in the Loop?](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-acl.1323.pdf)** (ACL Findings 2025): a large experimental study of LLM-assisted subjective annotation, examining how people use and evaluate AI-generated suggestions in interpretive tasks. Humans heavily anchor on LLM suggestions when annotating subjective data, even when they're given the chance to change the labels. The interface in which the suggestion is presented affects the strength of the effect. If humans "review" LLM outputs when constructing ground truth data sets, they will likely overestimate the model's performance.
 - Research on **AI-assisted qualitative coding and annotation**, investigating how LLMs influence human labeling, judgment, and decision-making.
 
 ---
@@ -42,7 +82,7 @@ I build and evaluate AI tools that augment qualitative analysis, conversation ex
 
 Projects include:
 
-- **[Forage](http://forage.ccc-mit.org:8501/)** (CHI 2026): a RAG-based conversation sensemaking system studied with NPR journalists and public-sector workers from The City of Durham, North Carolina. This project showed main use cases for RAG-search in qualitative data analysis, and built and evaluated features that surfaced multiple AI "perspectives" on the same data in order to counteract researcher bias.
+- **[Forage](http://forage.ccc-mit.org:8501/)** (CHI 2026): a RAG-based conversation sensemaking system studied with NPR journalists and public-sector workers from the City of Durham, North Carolina. This project showed main use cases for RAG-search in qualitative data analysis, and built and evaluated features that surfaced multiple AI "perspectives" on the same data in order to counteract researcher bias.
   - Paper: [CHI 2026 paper](https://dl.acm.org/doi/10.1145/3772318.3791640)
 
 - **[LLMs in Qualitative Research](https://dl.acm.org/doi/full/10.1145/3706598.3713120)** (CHI 2025): examined current opportunities and challenges when using LLMs in mixed methods and qualitative research workflows, producing a series of decision checkpoints to support researcher intentionality.
@@ -60,11 +100,15 @@ I investigate how AI reshapes scientific practice, accountability, and the socia
 
 Projects include:
 
-- **[Disclosure without Engagement](https://dl.acm.org/doi/pdf/10.1145/3715275.3732079)** (FAccT 2025): a study of positionality statements in FAccT, a major AI research community and how researchers engage with questions of accountability and reflexivity.
+- **[Disclosure without Engagement](https://dl.acm.org/doi/pdf/10.1145/3715275.3732079)** (FAccT 2025): a study of positionality statements in FAccT, a major AI research community, and how researchers engage with questions of accountability and reflexivity.
 
 - **[Understanding the LLM-ification of CHI](https://arxiv.org/pdf/2501.12557)** (CHI 2025): examined how generative AI is reshaping HCI research practice and provided suggestions to responsibly report on AI usage in HCI publications.
 
 - **[Interpretive Cultures: Resonance, Randomness, and Negotiated Meaning for AI-Assisted Tarot Divination](https://dl.acm.org/doi/10.1145/3772318.3791571)** (CHI 2026): studying how people use AI systems to interpret and make sense of personal experiences.
+
+---
+
+<h2 id="workshops">Workshops</h2>
 
 I also actively contribute to the development of emerging standards within HCI communities related to AI in mixed methods work with scientific and civic impacts. My past workshops include:
 
@@ -74,7 +118,7 @@ I also actively contribute to the development of emerging standards within HCI c
 
 ---
 
-# More about me
+<h1 id="more-about-me">More about me</h1>
 
 I hold an MSc (Distinction) in Social Data Science from the Oxford Internet Institute as a Clarendon Scholar at Christ Church, Oxford, and a BS with Honors in Symbolic Systems from Stanford University.
 
@@ -84,7 +128,7 @@ Earlier in my career, I worked on projects using VR and AR to document and reint
 
 ---
 
-# Contact
+<h1 id="contact">Contact</h1>
 
 📧 **hi@hopeschroeder.com**
 
@@ -92,3 +136,15 @@ Earlier in my career, I worked on projects using VR and AR to document and reint
 - [Bluesky](https://bsky.app/profile/hopeschroeder.bsky.social)
 - [LinkedIn](https://www.linkedin.com/in/hopeschroeder/)
 - [Twitter/X](https://twitter.com/Schropes)
+
+<script>
+  // Bolds the nav link for whichever section is on screen
+  const links = document.querySelectorAll('.topnav a[href^="#"]');
+  const spy = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) links.forEach(a =>
+        a.classList.toggle('active', a.getAttribute('href') === '#' + e.target.id));
+    });
+  }, { rootMargin: '-40% 0px -55% 0px' });
+  links.forEach(a => { const t = document.querySelector(a.getAttribute('href')); if (t) spy.observe(t); });
+</script>
