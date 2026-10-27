@@ -25,19 +25,18 @@
 </style>
 
 <nav class="topnav">
-  <a href="#about" class="active">About</a>
+  <a href="#home" class="active">Home</a>
   <a href="#research">Research</a>
   <a href="#workshops">Service</a>
   <a href="#teaching">Teaching</a>
-  <a href="#more-about-me">More</a>
+  <a href="#about-me">About</a>
   <a href="#contact">Links</a>
   <a href="/cv.pdf">CV</a>
 </nav>
 
-<div class="intro" id="about">
+<div class="intro" id="home">
   <img src="/headshot_2026.jpg" alt="Hope Schroeder headshot">
   <div class="intro-text">
-    <h1>Hi!</h1>
     <p>I'm <strong>Hope Schroeder</strong>, a PhD candidate at the
       <a href="https://www.ccc.mit.edu/">MIT Center for Constructive Communication</a>.</p>
     <p>I study <strong>how AI changes the way people produce, interpret, and communicate knowledge.</strong>
@@ -130,7 +129,7 @@ In addition to this teaching experience, I regularly mentor undergraduate resear
 
 ---
 
-<h1 id="more-about-me">More about me</h1>
+<h1 id="about-me">About</h1>
 
 I hold an MSc (Distinction) in Social Data Science from the Oxford Internet Institute as a Clarendon Scholar at Christ Church, Oxford, and a BS with Honors in Symbolic Systems from Stanford University.
 
