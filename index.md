@@ -27,9 +27,10 @@
 <nav class="topnav">
   <a href="#about" class="active">About</a>
   <a href="#research">Research</a>
-  <a href="#workshops">Workshops</a>
-  <a href="#more-about-me">Background</a>
-  <a href="#contact">Contact</a>
+  <a href="#workshops">Service</a>
+  <a href="#teaching">Teaching</a>
+  <a href="#more-about-me">More</a>
+  <a href="#contact">Links</a>
   <a href="/cv.pdf">CV</a>
 </nav>
 
@@ -115,6 +116,17 @@ I also actively contribute to the development of emerging standards within HCI c
 - **[Standards for LLMs in Human Subjects Research](https://sites.google.com/andrew.cmu.edu/chi-llm-simulacra/home)** (CHI 2026 Workshop): developing methodological guidance for researchers using LLMs in human-subjects studies.
 - **[LLMs as Research Tools](https://dl.acm.org/doi/10.1145/3613905.3636301)** (CHI 2024 Workshop): convening researchers around the use of LLMs in research within HCI and related fields.
 - **[NLP for Democracy](https://sites.google.com/andrew.cmu.edu/nlp4democracy/home)** (COLM 2025 Workshop): convening researchers in NLP, HCI, and related fields using LLMs in democracy-related work.
+
+---
+
+<h2 id="teaching">Teaching</h2>
+
+In Spring of 2023, I co-instructed a course at the MIT Media Lab called **["Generative AI for Constructive Communication: Evaluation and New Research Methods"](https://ai4comm.media.mit.edu/)** the first course covering the "modern" era of generative AI post-ChatGPT.
+
+Papers taught in the course were foundational and have set the course of the next several years of research. 
+~20 students from across departments were enrolled and completed mentored research projects.
+In addition to this teaching experience, I regularly mentor undergraduate researchers (UROPs) and early stage master's and PhD students.
+
 
 ---
 
