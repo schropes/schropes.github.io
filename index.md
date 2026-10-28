@@ -29,9 +29,9 @@
   <a href="#research">Research</a>
   <a href="#workshops">Service</a>
   <a href="#teaching">Teaching</a>
-  <a href="#about-me">About</a>
-  <a href="#contact">Links</a>
   <a href="#media">Media</a>
+  <a href="#about-me">About Me</a>
+  <a href="#contact">Links</a>
   <!-- href="/cv.pdf">CV-->
 </nav>
 
