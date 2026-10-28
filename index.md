@@ -167,6 +167,9 @@ Here is a selection of publicly posted talks I have given recently:
 - [Disclosure without Engagement](https://www.youtube.com/watch?v=xouYrAvBTWA) — FAccT 2025 conference talk
 - [Young Innovators in AI](https://www.youtube.com/watch?v=LhuEBdkI4Hg) — Invited panel, Imagination in Action: Architects of the Global Future, Davos, January 2025
 - [AI-Mediated Annotation](https://www.youtube.com/watch?v=I2zn--vIkgc) - Computation + Journalism 2024 conference talk
+- [AR for Social Justice](https://www.youtube.com/watch?v=fwZbk8PQAl8) - CHI 2023 talk, for project which won **Best Case Study Award**
+- [Responsible AI Practices](https://www.youtube.com/watch?v=xl_mLILZkiA&t=272s) panel moderator at 2023 MIT GenAI Summit
+
 
 ### Commentary and Writing
 
