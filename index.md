@@ -141,7 +141,8 @@ During my PhD, I have interned at Microsoft Research NYC twice, once in 2023 wit
 
 Earlier in my career, I worked on projects using VR and AR to document and reinterpret contested public spaces. Our **Dear Visitor** project received international press coverage, and a case study on this work received the **Best Case Study Award at CHI 2023**.
 
----
+Before college, I was a competitive figure skater and won US [national titles in solo ice dance](https://www.paloaltoonline.com/sports/2012/09/27/wheres-there-hope-theres-gold-medal-opportunities/).
+
 
 <h1 id="contact">Contact</h1>
 
