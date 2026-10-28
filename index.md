@@ -137,14 +137,16 @@ In addition to this teaching experience, I regularly mentor undergraduate resear
 
 ### Press
 
-**Science** piece:
+My work has been covered by major news organizations like BBC News and The Guardian. 
+
+Coverage of **Science** piece in 2023:
 
 - [If art is how we express our humanity, where does AI fit in?](https://news.mit.edu/2023/generative-ai-art-expression-0615), *MIT News*, June 2023 — Q&A on our *Science* paper, "Art and the science of generative AI."
 - [Generative AI is a minefield for copyright law](https://theconversation.com/generative-ai-is-a-minefield-for-copyright-law-207473), *The Conversation*, June 2023 — essay by co-authors Robert Mahari, Jessica Fjeld, and Ziv Epstein drawing on our *Science* paper.
 
 
 
-**Dear Visitor**:
+Coverage of **Dear Visitor**:
 
 Before my PhD, I directed location-based augmented reality projects that use AR to document and reinterpret contested public spaces. A case study of this work received the **[Best Case Study Award at CHI 2023](https://www.media.mit.edu/posts/hope-schroeder-chi-2023/)**. Directed with co-technical directors Kyle Qian and Khoi Le; funded by a Brown Institute Magic Grant. Stanford later approved a plaque with Miller's quote, and our work was covered by global news:
 
