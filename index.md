@@ -40,9 +40,11 @@
     <p>I'm <strong>Hope Schroeder</strong>, a PhD candidate at the
       <a href="https://www.ccc.mit.edu/">MIT Center for Constructive Communication</a>.</p>
     <p>I study <strong>how AI changes the way people produce, interpret, and communicate knowledge.</strong>
-      My research sits at the intersection of <strong>Human–Computer Interaction, Natural Language Processing,
-      and Computational Social Science</strong>, where I design and study AI systems that support sensemaking,
-      data analysis, and scientific inquiry.</p>
+  My research sits at the intersection of <strong>Human–Computer Interaction, Natural Language Processing,
+  and Computational Social Science</strong>, where I design and study AI systems that support sensemaking,
+  data analysis, and scientific inquiry. I am co-advised by
+  <strong><a href="https://www.ccc.mit.edu/person/deb-roy/">Deb Roy</a></strong> and
+  <strong><a href="https://miba.dev/">Michiel Bakker</a></strong>.</p>
     <p>My current project investigates pro-AI bias in language models, and how it can affect measurement
       in AI safety evaluations and social science.</p>
     <p><strong>I am on the academic faculty job market and industry research job market in 2026–2027.</strong>
