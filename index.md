@@ -46,8 +46,7 @@
   data analysis, and scientific inquiry. I am co-advised by
   <strong><a href="https://www.ccc.mit.edu/person/deb-roy/">Deb Roy</a></strong> and
   <strong><a href="https://miba.dev/">Michiel Bakker</a></strong>.</p>
-    <p>My current project investigates pro-AI bias in language models, and how it can affect measurement
-      in AI safety evaluations and social science.</p>
+    <p>My current project investigates pro-AI bias in language models, and how it can manifest in text analysis for the social sciences and for AI safety evaluations.</p>
     <p><strong>I am on the academic faculty job market and industry research job market in 2026–2027.</strong>
       If you'd like to chat, I'd love to hear from you.</p>
   </div>
