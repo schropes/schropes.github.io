@@ -140,37 +140,35 @@ My work has been covered by major news organizations like BBC News and The Guard
 
 Coverage of **Science** piece in 2023:
 
-- [If art is how we express our humanity, where does AI fit in?](https://news.mit.edu/2023/generative-ai-art-expression-0615), *MIT News*, June 2023 — Q&A on our *Science* paper, "Art and the science of generative AI."
-- [Generative AI is a minefield for copyright law](https://theconversation.com/generative-ai-is-a-minefield-for-copyright-law-207473), *The Conversation*, June 2023 — essay by co-authors Robert Mahari, Jessica Fjeld, and Ziv Epstein drawing on our *Science* paper.
-
-
+- *MIT News*: [If art is how we express our humanity, where does AI fit in?](https://news.mit.edu/2023/generative-ai-art-expression-0615), June 2023 — Q&A on our *Science* paper, "Art and the science of generative AI."
+- *The Conversation*: [Generative AI is a minefield for copyright law](https://theconversation.com/generative-ai-is-a-minefield-for-copyright-law-207473), June 2023 — essay by co-authors Robert Mahari, Jessica Fjeld, and Ziv Epstein drawing on our *Science* paper.
 
 Coverage of **Dear Visitor**:
 
 Before my PhD, I directed location-based augmented reality projects that use AR to document and reinterpret contested public spaces. A case study of this work received the **[Best Case Study Award at CHI 2023](https://www.media.mit.edu/posts/hope-schroeder-chi-2023/)**. Directed with co-technical directors Kyle Qian and Khoi Le; funded by a Brown Institute Magic Grant. Stanford later approved a plaque with Miller's quote, and our work was covered by global news:
 
-- [Chanel Miller: Stanford University scheme projects her words on to assault site](https://www.bbc.co.uk/news/world-us-canada-49858238), *BBC News*, September 2019
-- [Stanford students launch tribute to sexual assault survivor Chanel Miller](https://www.theguardian.com/us-news/2019/sep/27/stanford-students-launch-tribute-to-sexual-assault-survivor-chanel-miller), *The Guardian*, September 2019
-- [The top AR apps, projects, and activations of 2019](https://www.forbes.com/sites/jessedamiani/2020/02/27/the-top-ar-apps-projects-and-activations-of-2019/), *Forbes*, February 2020 — Top AR Social Justice Activation of 2019
-- [A new garden, a sexual assault and the fight at Stanford over Chanel Miller's voice](https://www.latimes.com/california/story/2019-10-04/the-space-where-brock-turner-sexually-assaulted-chanel-miller-is-at-the-center-of-an-ongoing-battle-at-stanford), *Los Angeles Times*, October 2019
-- [Column: Chanel Miller's memoir should be required reading for every cop, judge and prosecutor in America](https://www.latimes.com/opinion/story/2019-09-24/abcarian-chanel-miller-sexual-assault-brock-turner), *Los Angeles Times*, September 2019
-- [Augmented reality brings to life words of Stanford sex assault survivor](https://www.sfchronicle.com/bayarea/article/Augmented-reality-project-brings-to-life-words-of-14473441.php), *San Francisco Chronicle*, September 2019
-- [A Virtual Memorial Brings a Sexual Assault Survivor's Voice to the Stanford Campus](https://www.motherjones.com/politics/2019/10/stanford-sexual-assault-garden/), *Mother Jones*, October 2019
-- [Stanford Students Create Virtual Reality Project to Honor Assault Survivor Chanel Miller](https://www.teenvogue.com/story/stanford-students-create-virtual-reality-memorial-to-assault-survivor-chanel-miller/), *Teen Vogue*, 2019
-- [Show of solidarity at Stanford for Chanel Miller's memoir](https://abc7news.com/show-of-solidarity-at-stanford-for-chanel-millers-memoir/5565869/), *ABC7 News*, September 2019
-- [Stanford students use AR to keep spotlight on campus sexual assault](https://venturebeat.com/2019/09/19/stanford-students-use-ar-to-keep-spotlight-on-campus-sexual-assault/), *VentureBeat*, September 2019
-- [These students are using augmented reality to honor Chanel Miller's words on the Stanford campus](https://www.paloaltoonline.com/news/2019/09/28/these-students-are-using-augmented-reality-to-honor-chanel-millers-words-on-the-stanford-campus), *Palo Alto Weekly*, September 2019
-- [AR app lets users see, hear Chanel Miller quotes Stanford rejected at site of her assault](https://www.stanforddaily.com/2019/09/28/ar-app-lets-users-see-hear-chanel-miller-quotes-stanford-rejected-at-site-of-her-assault/), *The Stanford Daily*, September 2019
+- *BBC News*: [Chanel Miller: Stanford University scheme projects her words on to assault site](https://www.bbc.co.uk/news/world-us-canada-49858238), September 2019
+- *The Guardian*: [Stanford students launch tribute to sexual assault survivor Chanel Miller](https://www.theguardian.com/us-news/2019/sep/27/stanford-students-launch-tribute-to-sexual-assault-survivor-chanel-miller), September 2019
+- *Forbes*: [The top AR apps, projects, and activations of 2019](https://www.forbes.com/sites/jessedamiani/2020/02/27/the-top-ar-apps-projects-and-activations-of-2019/), February 2020 — Top AR Social Justice Activation of 2019
+- *Los Angeles Times*: [A new garden, a sexual assault and the fight at Stanford over Chanel Miller's voice](https://www.latimes.com/california/story/2019-10-04/the-space-where-brock-turner-sexually-assaulted-chanel-miller-is-at-the-center-of-an-ongoing-battle-at-stanford), October 2019
+- *Los Angeles Times*: [Column: Chanel Miller's memoir should be required reading for every cop, judge and prosecutor in America](https://www.latimes.com/opinion/story/2019-09-24/abcarian-chanel-miller-sexual-assault-brock-turner), September 2019
+- *San Francisco Chronicle*: [Augmented reality brings to life words of Stanford sex assault survivor](https://www.sfchronicle.com/bayarea/article/Augmented-reality-project-brings-to-life-words-of-14473441.php), September 2019
+- *Mother Jones*: [A Virtual Memorial Brings a Sexual Assault Survivor's Voice to the Stanford Campus](https://www.motherjones.com/politics/2019/10/stanford-sexual-assault-garden/), October 2019
+- *Teen Vogue*: [Stanford Students Create Virtual Reality Project to Honor Assault Survivor Chanel Miller](https://www.teenvogue.com/story/stanford-students-create-virtual-reality-memorial-to-assault-survivor-chanel-miller/), 2019
+- *ABC7 News*: [Show of solidarity at Stanford for Chanel Miller's memoir](https://abc7news.com/show-of-solidarity-at-stanford-for-chanel-millers-memoir/5565869/), September 2019
+- *VentureBeat*: [Stanford students use AR to keep spotlight on campus sexual assault](https://venturebeat.com/2019/09/19/stanford-students-use-ar-to-keep-spotlight-on-campus-sexual-assault/), September 2019
+- *Palo Alto Weekly*: [These students are using augmented reality to honor Chanel Miller's words on the Stanford campus](https://www.paloaltoonline.com/news/2019/09/28/these-students-are-using-augmented-reality-to-honor-chanel-millers-words-on-the-stanford-campus), September 2019
+- *The Stanford Daily*: [AR app lets users see, hear Chanel Miller quotes Stanford rejected at site of her assault](https://www.stanforddaily.com/2019/09/28/ar-app-lets-users-see-hear-chanel-miller-quotes-stanford-rejected-at-site-of-her-assault/), September 2019
 
 ### Talks
 
 Here is a selection of publicly posted talks I have given recently:
-- [Disclosure without Engagement](https://www.youtube.com/watch?v=xouYrAvBTWA) — FAccT 2025 conference talk
-- [Young Innovators in AI](https://www.youtube.com/watch?v=LhuEBdkI4Hg) — Invited panel, Imagination in Action: Architects of the Global Future, Davos, January 2025
-- [AI-Mediated Annotation](https://www.youtube.com/watch?v=I2zn--vIkgc) - Computation + Journalism 2024 conference talk
-- [AR for Social Justice](https://www.youtube.com/watch?v=fwZbk8PQAl8) - CHI 2023 talk, for project which won **Best Case Study Award**
-- [Responsible AI Practices](https://www.youtube.com/watch?v=xl_mLILZkiA&t=272s) panel moderator at 2023 MIT GenAI Summit
 
+- *FAccT 2025*: [Disclosure without Engagement](https://www.youtube.com/watch?v=xouYrAvBTWA), June 2025 — conference talk
+- *Imagination in Action, Davos*: [Young Innovators in AI](https://www.youtube.com/watch?v=LhuEBdkI4Hg), January 2025 — invited panel
+- *Computation + Journalism 2024*: [AI-Mediated Annotation](https://www.youtube.com/watch?v=I2zn--vIkgc), October 2024 — conference talk
+- *CHI 2023*: [AR for Social Justice](https://www.youtube.com/watch?v=fwZbk8PQAl8), April 2023 — **Best Case Study Award**
+- *MIT GenAI Summit*: [Responsible AI Practices](https://www.youtube.com/watch?v=xl_mLILZkiA&t=272s), March 2023 — panel moderator
 
 ### Commentary and Writing
 
